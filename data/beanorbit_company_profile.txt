@@ -1,0 +1,111 @@
+# BeanOrbit Company Profile
+
+## Overview
+BeanOrbit is a startup ecosystem and "startup co-pilot" designed to help founders launch, grow, and scale their businesses without chaos. They position themselves as a distributed network of elite specialist pods rather than a traditional agency, offering services in branding, technology, and business systems.
+
+- **Tagline:** Let's Build & Scale
+- **Mission:** To be the founder's co-pilot for brand, tech, and growth.
+- **Operating Model:** A fluid, high-performance network of specialist pods that plug directly into a founder's vision, delivering speed, quality, and transparency without traditional agency overhead.
+- **Established:** 2025
+- **Location:** India (based on incorporation data)
+
+## Key Statistics
+- **Experts:** 52+ specialist community experts.
+- **Projects Delivered:** 10+ projects.
+- **Talent Access:** Access to the top 1% of community experts.
+
+## Core Services
+
+### 1. Business Foundation
+- **Company Registration & Compliance:** Helping startups with the legalities of setting up.
+- **Brand Identity:** Domains, emails, and overall brand setup.
+- **Legal Documentation:** Drafting contracts and necessary legal papers.
+
+### 2. Digital Presence
+- **Web Development:** High-performance websites and web applications.
+- **Mobile App Development:** Android and iOS applications.
+- **SEO & Google Business:** Setting up and optimizing for search engines.
+
+### 3. Business Systems & AI
+- **AI-Driven Workflow Automation:** Using AI to streamline business processes.
+- **AI Development:** Custom AI tools to enhance user experience and accelerate growth.
+- **Data Analytics:** Providing insights through data.
+
+### 4. Software & Product Development
+- **End-to-End Product Development:** From concept to launch.
+- **Tech Consultation:** Strategic advice on technology stacks and architecture.
+
+### 5. Marketing & Growth
+- **Social Media Management:** Across 10+ platforms.
+- **Hiring Support:** Assisting startups in finding the right talent.
+
+## Process: From Concept to Launch
+1. **Kickoff:** Understanding goals, vision, and expectations. Includes consultation and roadmap creation.
+2. **Execution:** Strategy implementation where ideas come to life through integration and collaboration.
+3. **Handoff:** Delivery of all assets, documentation, and support for a smooth launch.
+
+## Founders & Team
+- **Fiyaz Marunnan:** Founder of Wordsrail (Client/Partner mentioned in testimonials).
+- **Ambareesh:** Founder of Mass (Client/Partner).
+- **Sudheesh Sivakumar:** Founder of VAS Accounts (Client/Partner).
+- **Finu Muhammed Shaheem:** Founder of Mindbae Wellness (Client/Partner).
+- **Midhun M:** Founder of Jezt AI (Client/Partner).
+- **Arun Thottathil:** Founder of Wordarail (Client/Partner).
+- **Akhil:** Founder of Vedam Group, Hyderabad (Client/Partner).
+
+## Client Testimonials
+- **Wordsrail (Fiyaz Marunnan):** "Beanorbit's team not only built a smooth, user-friendly system but also helped us design it to look premium... They stayed within our small startup budget."
+- **Mass (Ambareesh):** "Beanorbit turned our idea into a working software solution... delivered exactly what we needed without any complications."
+- **VAS Accounts (Sudheesh Sivakumar):** "From day one, Beanorbit treated our project like their own... delivered an app that looked premium without the premium price tag."
+- **Mindbae Wellness (Finu Muhammed Shaheem):** "Beanorbit made developing our software so simple... built everything step by step."
+
+## Insights & Expertise (Blog Topics)
+BeanOrbit shares expertise in several key areas:
+- **Web Application Development:** Focus on interactive, scalable, and secure software.
+- **Mobile App Development:** Expertise in iOS vs. Android and frameworks like React Native and Flutter.
+- **AI & Automation:** How AI services accelerate business growth and the use of AI chatbots for customer support.
+- **Business Registration:** Guides on registering businesses in India and choosing between LLP vs. Private Limited structures.
+- **SaaS Products:** Strategy and execution for building SaaS from idea to launch.
+
+## Contact Information
+- **Email:** admin@beanorbit.com
+- **WhatsApp:** +91 6282 182 642
+- **Response Time:** Within 24 hours
+- **Website:** https://beanorbit.com/
+
+## Legal Entities (Search Data)
+- **BeanOrbit International LLP:** Incorporated Nov 28, 2025.
+- **Bean Orbit Private Limited:** Incorporated Oct 29, 2025.
+- **CIN:** U10730AP2025PTC121877 (for Private Limited)
+
+## Chatbot Knowledge Base Notes
+- BeanOrbit focuses on "speed, quality, and transparency."
+- They target "founders" and "startups."
+- They emphasize "premium quality without the premium price tag."
+- They use a "pod-based" delivery model for efficiency.
+
+## Potential Chatbot Q&A / Knowledge Base
+
+**Q: What exactly is BeanOrbit?**
+A: BeanOrbit is a "startup co-pilot" and ecosystem that helps founders build and scale their businesses. They provide a distributed network of specialist pods to handle branding, technology, and business systems, replacing the traditional agency model with a more fluid and high-performance approach.
+
+**Q: What services does BeanOrbit offer?**
+A: BeanOrbit offers a wide range of services including company registration, brand identity, legal documentation, web and mobile app development, SEO, AI-driven workflow automation, custom AI development, data analytics, tech consultation, social media management, and hiring support.
+
+**Q: How does BeanOrbit's process work?**
+A: Their process consists of three main stages: Kickoff (understanding goals and creating a roadmap), Execution (strategy implementation and collaboration), and Handoff (delivery of assets, documentation, and launch support).
+
+**Q: Is BeanOrbit suitable for small startups?**
+A: Yes, testimonials from clients like Wordsrail mention that BeanOrbit is capable of delivering premium-looking systems while staying within a small startup budget.
+
+**Q: What is the "specialist pod" model?**
+A: Instead of a traditional agency structure, BeanOrbit uses multidisciplinary teams (pods) of elite experts (top 1%) who plug directly into the founder's vision to deliver speed and quality without unnecessary overhead.
+
+**Q: How can I contact BeanOrbit?**
+A: You can reach them via email at admin@beanorbit.com or through WhatsApp at +91 6282 182 642. They typically respond within 24 hours.
+
+**Q: Does BeanOrbit help with business registration in India?**
+A: Yes, they provide complete startup guides and services for business registration, including helping founders choose between structures like LLP and Private Limited.
+
+**Q: What kind of AI solutions does BeanOrbit provide?**
+A: They develop custom AI tools for business growth, AI-driven workflow automation, and AI chatbots for customer support and business automation.
