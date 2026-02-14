@@ -32,3 +32,7 @@ async def query(request: QueryRequest):
     except Exception as e:
         logger.error(f"Search error: {e}")
         raise HTTPException(status_code=500, detail="Search failed")
+    
+@app.get("/")
+async def root():
+    return {"message": "BeanOrbit Semantic Search API is running"}
